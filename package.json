@@ -1,0 +1,19 @@
+{
+  "name": "goodmorning",
+  "version": "1.0.0",
+  "description": "script that says greetings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susukacang/goodmorning.git"
+  },
+  "author": "Susu Kacang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susukacang/goodmorning/issues"
+  },
+  "homepage": "https://github.com/susukacang/goodmorning#readme"
+}
